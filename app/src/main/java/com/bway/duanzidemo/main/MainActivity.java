@@ -1,7 +1,9 @@
-package com.bway.duanzidemo;
+package com.bway.duanzidemo.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.bway.duanzidemo.R;
 
 public class MainActivity extends AppCompatActivity {
 
