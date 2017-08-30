@@ -1,5 +1,4 @@
 package com.bway.duanzidemo.net.retrofit;
-package com.bway.duanzi.net.retrofit;
 
 /**
  * autor: 李金涛.

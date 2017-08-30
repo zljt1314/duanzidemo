@@ -1,5 +1,5 @@
 package com.bway.duanzidemo.db;
-package com.bway.duanzi.db;
+
 
 /**
  * autor: 李金涛.

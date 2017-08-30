@@ -1,5 +1,5 @@
 package com.bway.duanzidemo.module;
-package com.bway.duanzi.module;
+
 
 /**
  * autor: 李金涛.

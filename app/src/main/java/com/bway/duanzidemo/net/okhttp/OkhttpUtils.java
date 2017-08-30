@@ -1,5 +1,4 @@
 package com.bway.duanzidemo.net.okhttp;
-package com.bway.duanzi.net.okhttp;
 
 /**
  * autor: 李金涛.

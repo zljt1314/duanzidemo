@@ -1,5 +1,4 @@
 package com.bway.duanzidemo.bean;
-package com.bway.duanzi.bean;
 
 /**
  * autor: 李金涛.
