@@ -7,5 +7,5 @@ package com.bway.duanzidemo.net.retrofit;
 
 
 public class RetrofitUtils {
-    
+
 }
